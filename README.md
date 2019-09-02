@@ -1,8 +1,9 @@
 # HaveIBeenPwned
 
-Wordlist support coming soon
-
 Simple bash consuming have i been pwned's API
 
+Wordlist support added
 
-Usage: ./haveibeenpwned textpassword <output file>
+Usage: ./haveibeenpwned <wordlist>textpassword <output file>
+
+Output: PASSWORD:LEAKS
